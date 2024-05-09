@@ -1,4 +1,6 @@
 ok i made an edit on the top
+ok edited anothere line
+
 
 its dynamite not butter chicken bitch!!
 We, Need nitric acid, HCl, and someother chemicals..
@@ -7,4 +9,8 @@ ok i edited it
 ok edited with nithin
 added line
 are you going for a date tonight?
+<<<<<<< HEAD
 ??
+=======
+i am not
+>>>>>>> e3d7ba928d0e13ff4a84386a359f1d26805cba3c
